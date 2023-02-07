@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohamad Parsa
+# 👋 Hi, I’m Parsa
 [![Linkedin Badge](https://img.shields.io/badge/-MohamadParsa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadparsa/)](https://www.linkedin.com/in/mohamadparsa/)
 [![Skype Badge](https://img.shields.io/badge/-@Parsa-f4f4f4?style=flat&labelColor=f4f4f4&logo=Skype&link=https://join.skype.com/invite/xd6fc6q7NMKh)](https://join.skype.com/invite/xd6fc6q7NMKh)
 [![StackOverFlow Badge](https://img.shields.io/badge/-Parsa-47CCCC?style=flat&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/13634380/parsa)](https://stackoverflow.com/users/13634380/parsa)
