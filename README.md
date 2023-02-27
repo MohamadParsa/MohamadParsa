@@ -4,11 +4,11 @@
 [![StackOverFlow Badge](https://img.shields.io/badge/-Parsa-47CCCC?style=flat&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/13634380/parsa)](https://stackoverflow.com/users/13634380/parsa)
 [![Gmail Badge](https://img.shields.io/badge/-MohamadParsa-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:MohamadParsa@gmail.com)](mailto:MohamadParsa@gmail.com)
 
-Solution-driven senior back-end developer adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. Proven experience developing consumer-focused applications using GoLang, .Net, and SQL Server. Built products for web and mobile app users over 12+ years, meeting highest standards for web design, user experience, best practices and speed. Designed and developed web applications across multiple APIs, third-party integrations and databases.
+Solution-driven senior back-end developer, adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. Proven experience developing consumer-focused applications using GoLang, .Net, and SQL Server. Built products for web and mobile app users over 12+ years, meeting the highest standards for web design, user experience, best practices, and speed. Designed and developed web applications across multiple APIs, third-party integrations, and databases.
 
 - :airplane: I'm working in the International Flight Ticket team at SnappTrip.
 - 🌱 I’m currently learning Blockchain topic with Golang.
-- :rocket: I’m looking to collaborate on Golang projects and profitinal teams.
+- :rocket: I’m looking to collaborate on Golang projects and professional teams.
 
 <!---
 MohamadParsa/MohamadParsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
